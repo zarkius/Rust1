@@ -1,0 +1,17 @@
+/home/x2/Escritorio/Rust/proyecto3/servidor/target/debug/deps/libtypenum-3d29ff1097368439.rmeta: /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/lib.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/bit.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/int.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/marker_traits.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/operator_aliases.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/private.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/type_operators.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/uint.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/array.rs /home/x2/Escritorio/Rust/proyecto3/servidor/target/debug/build/typenum-b369635aa4e7a690/out/op.rs /home/x2/Escritorio/Rust/proyecto3/servidor/target/debug/build/typenum-b369635aa4e7a690/out/consts.rs
+
+/home/x2/Escritorio/Rust/proyecto3/servidor/target/debug/deps/typenum-3d29ff1097368439.d: /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/lib.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/bit.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/int.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/marker_traits.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/operator_aliases.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/private.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/type_operators.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/uint.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/array.rs /home/x2/Escritorio/Rust/proyecto3/servidor/target/debug/build/typenum-b369635aa4e7a690/out/op.rs /home/x2/Escritorio/Rust/proyecto3/servidor/target/debug/build/typenum-b369635aa4e7a690/out/consts.rs
+
+/home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/lib.rs:
+/home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/bit.rs:
+/home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/int.rs:
+/home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/marker_traits.rs:
+/home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/operator_aliases.rs:
+/home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/private.rs:
+/home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/type_operators.rs:
+/home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/uint.rs:
+/home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/array.rs:
+/home/x2/Escritorio/Rust/proyecto3/servidor/target/debug/build/typenum-b369635aa4e7a690/out/op.rs:
+/home/x2/Escritorio/Rust/proyecto3/servidor/target/debug/build/typenum-b369635aa4e7a690/out/consts.rs:
+
+# env-dep:OUT_DIR=/home/x2/Escritorio/Rust/proyecto3/servidor/target/debug/build/typenum-b369635aa4e7a690/out

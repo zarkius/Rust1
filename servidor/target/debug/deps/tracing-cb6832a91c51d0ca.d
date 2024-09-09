@@ -1,0 +1,13 @@
+/home/x2/Escritorio/Rust/proyecto3/servidor/target/debug/deps/libtracing-cb6832a91c51d0ca.rmeta: /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/lib.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/macros.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/dispatcher.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/field.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/instrument.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/level_filters.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/span.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/stdlib.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/subscriber.rs
+
+/home/x2/Escritorio/Rust/proyecto3/servidor/target/debug/deps/tracing-cb6832a91c51d0ca.d: /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/lib.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/macros.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/dispatcher.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/field.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/instrument.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/level_filters.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/span.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/stdlib.rs /home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/subscriber.rs
+
+/home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/lib.rs:
+/home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/macros.rs:
+/home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/dispatcher.rs:
+/home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/field.rs:
+/home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/instrument.rs:
+/home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/level_filters.rs:
+/home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/span.rs:
+/home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/stdlib.rs:
+/home/x2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.40/src/subscriber.rs:
