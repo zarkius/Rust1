@@ -4,6 +4,8 @@ use std::fs::OpenOptions;
 use std::io::Write;
 use std::fs;
 
+
+//RUTAS DE LA API
 #[get("/")]
 async fn index(_req: HttpRequest) -> impl Responder {
     let html_content = fs::read_to_string("statics/index.html")
@@ -30,6 +32,9 @@ async fn delete_item(_req: HttpRequest) -> impl Responder {
 }
 
 
+
+//MAIN
+
 #[actix_web::main]
 async fn main() -> std::io::Result<()> {
     // Configurar el logger para escribir en un archivo
@@ -37,15 +42,15 @@ async fn main() -> std::io::Result<()> {
         .create(true)
         .write(true)
         .append(true)
-        .open("log/output.log")
+        .open("log/logs.log")
         .unwrap();
-
+        // Inicializar el logger
     env_logger::Builder::from_env(Env::default().default_filter_or("info"))
         .target(env_logger::Target::Pipe(Box::new(log_file)))
         .init();
-
+        // Iniciar el servidor
     HttpServer::new(|| {
-        App::new()
+        App::new()  
             .service(index)
             .service(create_item)
             .service(update_item)
@@ -53,7 +58,7 @@ async fn main() -> std::io::Result<()> {
             .wrap(Logger::default())
             .wrap(Logger::new("%a %{User-Agent}i"))
     })
-    .bind(("localhost", 8080))?
-    .run()
-    .await
+    .bind(("localhost", 8080))? // Escuchar en localhost:8080
+    .run()  // Ejecutar el servidor
+    .await // Esperar a que termine
 }
